@@ -141,11 +141,4 @@ Therefore, performance metrics are computed numerically from the time response.
 
 ---
 
-## 8️⃣ How to Run
 
-1. Open MATLAB
-2. Navigate to the `src` folder
-3. Run:
-
-```matlab
-main_problem3
